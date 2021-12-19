@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Sergio Rodriguez\\Desktop\\SEXTO CUATRIMESTRE\\MATERIAS_SEXTO_CUATRIMESTRE\\PROGRAMACION V\\Aplicacion_Administrar_Blog\\EFGetSatarted\\EFGetSatarted.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Sergio Rodriguez\\Desktop\\SEXTO CUATRIMESTRE\\MATERIAS_SEXTO_CUATRIMESTRE\\PROGRAMACION V\\Aplicacion_Administrar_Blog\\EFGetSatarted\\EFGetSatarted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sergio Rodriguez\\Desktop\\SEXTO CUATRIMESTRE\\MATERIAS_SEXTO_CUATRIMESTRE\\PROGRAMACION V\\Aplicacion_Administrar_Blog\\EFGetSatarted\\EFGetSatarted.csproj",
+        "projectName": "EFGetSatarted",
+        "projectPath": "c:\\Users\\Sergio Rodriguez\\Desktop\\SEXTO CUATRIMESTRE\\MATERIAS_SEXTO_CUATRIMESTRE\\PROGRAMACION V\\Aplicacion_Administrar_Blog\\EFGetSatarted\\EFGetSatarted.csproj",
+        "packagesPath": "C:\\Users\\Sergio Rodriguez\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sergio Rodriguez\\Desktop\\SEXTO CUATRIMESTRE\\MATERIAS_SEXTO_CUATRIMESTRE\\PROGRAMACION V\\Aplicacion_Administrar_Blog\\EFGetSatarted\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sergio Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
